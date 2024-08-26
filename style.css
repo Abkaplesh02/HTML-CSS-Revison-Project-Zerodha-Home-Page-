@@ -1,3 +1,14 @@
 div{
     font-family: "Inter",serif;
 }
+button{
+    background-color: #387ed1;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 500;
+    cursor: pointer;
+    border:1px solid rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    min-width: 200px;
+    line-height: 2;
+}
